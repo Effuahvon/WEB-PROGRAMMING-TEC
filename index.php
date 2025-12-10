@@ -60,7 +60,7 @@
     <!-- Energy Section -->
     <section class="energy-section">
       <div class="energy-image">
-        <img src="images/game-1.png" alt="Street Football Energy" />
+        <img src="images/portrait-young-man-playing-football-with-feet.jpg" alt="Street Football Energy" />
       </div>
       <div class="energy-content">
         <h2 class="energy-title">THE STREET ENERGY WILL CONTINUE</h2>
@@ -77,10 +77,10 @@
           <p class="feature-desc">Join weekly and monthly street football tournaments. Test your skills, test your hood. Best with real feat prizes. Na ur game for real call dem.</p>
         </div>
         <div class="feature-image">
-          <img src="images/game-2.png" alt="Basketball Court Action" />
+          <img src="images/close-up-people-watching-match-waiting-goal.jpg" alt="Basketball Court Action" />
         </div>
         <div class="feature-image">
-          <img src="images/game-3.png" alt="Street Football Match" />
+          <img src="images/full-shot-kids-playing-game-outdoors.jpg" alt="Street Football Match" />
         </div>
         <div class="feature-text right">
           <h3 class="feature-title">Build Your Legend</h3>
@@ -96,17 +96,17 @@
         <div class="games-grid">
           <article class="game-card">
             <div class="game-card-inner">
-              <img src="images/game-1.png" alt="Community Challenges" />
+              <img src="images/portrait-young-man-playing-football (2).jpg" alt="Community Challenges" />
             </div>
           </article>
           <article class="game-card">
             <div class="game-card-inner">
-              <img src="images/game-2.png" alt="Build Your Legend" />
+              <img src="images/shallow-focus-shot-african-american-male-white-shirt-stretching-park.jpg" alt="Build Your Legend" />
             </div>
           </article>
           <article class="game-card">
             <div class="game-card-inner">
-              <img src="images/game-3.png" alt="Street Tournaments" />
+              <img src="images/athletic-man-stretching-before-exercise.jpg" alt="Street Tournaments" />
             </div>
           </article>
         </div>

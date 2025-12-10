@@ -181,10 +181,10 @@
         <div class="team-grid">
           <div class="team-card">
             <div class="team-image">
-              <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=400&fit=crop" alt="Team member">
+              <img src="images/1000224772.webp" alt="Team member">
             </div>
             <div class="team-info">
-              <h3 class="team-name">Mohamed Kamara</h3>
+              <h3 class="team-name">Alhassan Ojoe Kamara</h3>
               <p class="team-role">Founder & CEO</p>
               <p class="team-bio">Former professional player with 10+ years of experience in talent management.</p>
             </div>
@@ -192,10 +192,10 @@
 
           <div class="team-card">
             <div class="team-image">
-              <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop" alt="Team member">
+              <img src="images/WhatsApp Image 2025-12-09 at 9.21.20 AM.jpeg" alt="Team member">
             </div>
             <div class="team-info">
-              <h3 class="team-name">Sarah Williams</h3>
+              <h3 class="team-name">Esther Lakeshia Adjivon</h3>
               <p class="team-role">Head of Scouting</p>
               <p class="team-bio">Expert scout with connections across West African football leagues.</p>
             </div>
@@ -203,27 +203,17 @@
 
           <div class="team-card">
             <div class="team-image">
-              <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop" alt="Team member">
+              <img src="images/WhatsApp Image 2025-12-09 at 5.51.01 AM.jpeg" alt="Team member">
             </div>
             <div class="team-info">
-              <h3 class="team-name">Ibrahim Sesay</h3>
+              <h3 class="team-name">Donald Muekeh Charles</h3>
               <p class="team-role">Player Development Coach</p>
               <p class="team-bio">Specialized in youth development and professional transition programs.</p>
             </div>
           </div>
 
-          <div class="team-card">
-            <div class="team-image">
-              <img src="https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&h=400&fit=crop" alt="Team member">
-            </div>
-            <div class="team-info">
-              <h3 class="team-name">Aminata Bangura</h3>
-              <p class="team-role">Legal Advisor</p>
-              <p class="team-bio">Ensures all contracts and agreements protect our players' interests.</p>
-            </div>
-          </div>
-        </div>
-      </div>
+      
+    
     </section>
 
     <!-- CTA Section -->
